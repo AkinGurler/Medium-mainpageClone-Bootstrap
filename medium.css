@@ -1,0 +1,45 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.bg-yellow {
+    background-color: #FFC017;
+}
+
+.border-bottom-dark {
+    border-bottom: solid 1px rgba(41, 41, 41, 1);
+}
+
+.button-radius {
+    border-radius: 99em;
+}
+
+.border-top-main {
+    border-top: 1px solid rgba(230, 230, 230, 1);
+
+}
+
+.discover-button {
+
+    font: size 13px;
+    padding: 6px 16px;
+    margin: 0px 8px 8px 0px;
+    background-color: white;
+    border: 1px solid rgba(230, 230, 230, 1);
+    border-radius: 3px;
+}
+
+.border-bot-white {
+    
+    border-bottom: 1px solid rgba(230, 230, 230, 1);
+
+}
+
+.footer-links{
+    text-decoration: none;
+    color:#757575 ;
+    font-size: 14px;
+
+}

@@ -1,0 +1,8 @@
+fontawesome/
+js/
+css/
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json!
+!.vscode&
